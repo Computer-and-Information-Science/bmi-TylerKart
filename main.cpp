@@ -13,4 +13,5 @@ meters = height * 0.0254;
 bmi = kg / (meters * meters);
 
 cout<< "The BMI for this person is: "<< bmi << endl;
+
 }
